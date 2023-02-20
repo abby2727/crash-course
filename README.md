@@ -4,5 +4,7 @@
 Web dev related crash course. <br>
 <hr style="border:2px solid gray">
 
-Project links: <br>
-https://www.w3schools.com/js/default.asp
+Projects: <br>
+https://abby2727.github.io/crash-course/bootstrap-course <br>
+https://abby2727.github.io/crash-course/css-grid-course <br>
+https://abby2727.github.io/crash-course/flexbox-course
