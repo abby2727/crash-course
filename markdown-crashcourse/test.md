@@ -1,0 +1,3 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abby2727)](https://github.com/abby2727)
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abby2727&layout=compact&langs_count=6&exclude_repo=abby-coding,laravel_research_update,hospital-care-info,java-trivia-quizzes&theme=onedark&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=15124f" />
